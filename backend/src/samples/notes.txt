@@ -1,0 +1,4 @@
+RPC URL: https://testnet.aurora.dev/
+Deploying from account: 0x668417616f1502D13EA1f9528F83072A133e8E01
+BiverseERC20 deployed to: 0xd321949Ec9e8dE5c60323FcD247Ce2Ec8eB64eEE
+BiverseLandERC721 deployed to: 0x1879a7338F7682Ae3AeeB3F696eAD5481D789183
